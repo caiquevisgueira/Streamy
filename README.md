@@ -1,4 +1,4 @@
-### Clone da interface de usuário Netflix
+### Clone da interface Netflix
 
 ### https://streamyy.netlify.app/
 
